@@ -45,7 +45,7 @@ function Form({ onSubmit }) {
           OK!
         </button>
       </form>
-      <section className="max-w-md mt-2">
+      <section className="max-w-md mt-2 p-2">
         <h1 className="font-bold text-xl">"Memento Mori"</h1>
         <p>
           The global life expectancy is nearly 75 years (4000 weeks), depending
